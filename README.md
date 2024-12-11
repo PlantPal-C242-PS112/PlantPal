@@ -2,23 +2,21 @@
 ## PlantPal Dataset Access
 https://www.kaggle.com/datasets/srilutfiyadwiyeni/plantpal-dataset
 
-Overview
-
+# Overview
 This project demonstrates the implementation, training, and deployment of a Convolutional Neural Network (CNN) model for plant disease classification using TensorFlow. The model is capable of identifying 31 distinct classes of plant diseases based on input images, including healthy states of plants.
 
-Visualization of training metrics (accuracy and loss):
+# Visualization of training metrics (accuracy and loss):
 - train acc: 95.59% and val acc: 97.16%
 - train loss: 27.68% and val loss 22.09%
 
-Model serialization into multiple formats:
+# Model serialization into multiple formats:
 - Keras (.h5 and .keras)
 - TensorFlow SavedModel
 - TensorFlow Lite
 - TensorFlow.js
 - .json
 
-Requirements
-
+# Requirements
 The following Python packages are required for running the project:
 - ipython==8.27.0
 - ipywidgets==7.8.1
@@ -37,12 +35,10 @@ The following Python packages are required for running the project:
 - tensorflow_intel==2.15.0
 - tensorflowjs==4.22.0
 
-Install the dependencies using pip:
-
+# Install the dependencies using pip:
 pip install -r requirements.txt
 
-Directory Structure
-
+# Directory Structure
 project-directory/
 |-- training_data/
 |-- validation_data/
@@ -59,7 +55,7 @@ project-directory/
     |-- predict_image.py
 |-- README.md
 
-Usage
+# Usage
 
 1. Data Preparation
 
