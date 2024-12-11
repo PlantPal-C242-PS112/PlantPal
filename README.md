@@ -20,23 +20,22 @@ Model serialization into multiple formats:
 Requirements
 
 The following Python packages are required for running the project:
-
-ipython==8.27.0
-ipywidgets==7.8.1
-kagglehub==0.3.4
-keras==2.15.0
-matplotlib==3.7.1
-numpy==2.2.0
-pandas==2.2.3
-Pillow==11.0.0
-plotly==5.24.1
-protobuf==4.25.3
-pydot==3.0.3
-scikit_learn==1.6.0
-seaborn==0.13.2
-tensorflow==2.15.0
-tensorflow_intel==2.15.0
-tensorflowjs==4.22.0
+- ipython==8.27.0
+- ipywidgets==7.8.1
+- kagglehub==0.3.4
+- keras==2.15.0
+- matplotlib==3.7.1
+- numpy==2.2.0
+- pandas==2.2.3
+- Pillow==11.0.0
+- plotly==5.24.1
+- protobuf==4.25.3
+- pydot==3.0.3
+- scikit_learn==1.6.0
+- seaborn==0.13.2
+- tensorflow==2.15.0
+- tensorflow_intel==2.15.0
+- tensorflowjs==4.22.0
 
 Install the dependencies using pip:
 
