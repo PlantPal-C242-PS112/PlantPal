@@ -1,5 +1,4 @@
 ipython==8.27.0
-ipython==8.12.3
 ipywidgets==7.8.1
 kagglehub==0.3.4
 keras==2.15.0
@@ -14,5 +13,4 @@ scikit_learn==1.6.0
 seaborn==0.13.2
 tensorflow==2.15.0
 tensorflow_intel==2.15.0
-tensorflow_intel==2.18.0
 tensorflowjs==4.22.0
