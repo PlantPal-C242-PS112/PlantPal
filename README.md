@@ -1,4 +1,7 @@
 # PlantPal CNN Model - README
+- Nadia Adyutarahma Putri (M200B4KX4164)
+- Siti Alya Nurrohmah (M200B4KX4164)
+- Sri Lutfiya Dwiyeni (M200B4KX4198)
 
 ## PlantPal Dataset Access
 https://www.kaggle.com/datasets/srilutfiyadwiyeni/plantpal-dataset
