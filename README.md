@@ -15,6 +15,7 @@ This project demonstrates the implementation, training, and deployment of a Conv
 - TensorFlow Lite
 - TensorFlow.js
 - .json
+![depositphotos_7964682-stock-photo-green-leaf](https://github.com/user-attachments/assets/1dd97350-1e65-4c20-b9be-db1d2e3d3e97)
 
 # Requirements
 The following Python packages are required for running the project:
@@ -106,7 +107,7 @@ Use the .tflite model for edge device deployment.
 
 A zipped archive models_cnn.zip containing all serialized model formats can be downloaded.
 
-Visualization
+# Visualization
 
 Accuracy and Loss
 
@@ -116,7 +117,7 @@ Accuracy_CNN.png
 
 Loss_CNN.png
 
-Confusion Matrix
+# Confusion Matrix
 
 The confusion matrix visualization can be generated using the evaluation script.
 
