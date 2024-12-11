@@ -119,7 +119,7 @@ Loss_CNN.png
 # Confusion Matrix
 
 The confusion matrix visualization can be generated using the evaluation script.
-![image](https://github.com/user-attachments/assets/1bc3fdd6-64ce-417a-8d1f-34435d0c043a)
+<img src="https://github.com/user-attachments/assets/1bc3fdd6-64ce-417a-8d1f-34435d0c043a" alt="image" width="400" height="auto"/>
 
 
 Notes
