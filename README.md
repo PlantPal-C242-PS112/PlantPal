@@ -6,25 +6,16 @@ Overview
 
 This project demonstrates the implementation, training, and deployment of a Convolutional Neural Network (CNN) model for plant disease classification using TensorFlow. The model is capable of identifying 31 distinct classes of plant diseases based on input images, including healthy states of plants.
 
-Features
-
-Training and validation pipelines with data augmentation.
-
 Visualization of training metrics (accuracy and loss).
-
-Implementation of evaluation metrics such as precision, recall, and F1-score.
+    - train acc: 95.59% and val acc: 97.16%
+    - train loss:  27.68% and val loss 22.09%
 
 Model serialization into multiple formats:
-
-Keras (.h5 and .keras)
-
-TensorFlow SavedModel
-
-TensorFlow Lite
-
-TensorFlow.js
-
-Interactive testing with image uploads.
+- Keras (.h5 and .keras)
+- TensorFlow SavedModel
+- TensorFlow Lite
+- TensorFlow.js
+- .json
 
 Requirements
 
@@ -81,6 +72,7 @@ validation_data/
 
 Images should be organized into subdirectories for each class.
 
+
 2. Training the Model
 
 Run the script to train the CNN model:
@@ -125,9 +117,9 @@ Accuracy and Loss
 
 The training and validation accuracy and loss curves are saved as images:
 
-Accuracy_v1_InceptionV3.png
+Accuracy_CNN.png
 
-Loss_v1_InceptionV3.png
+Loss_CNN.png
 
 Confusion Matrix
 
