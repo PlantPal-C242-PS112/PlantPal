@@ -1,4 +1,5 @@
 # PlantPal CNN Model - README
+
 ## PlantPal Dataset Access
 https://www.kaggle.com/datasets/srilutfiyadwiyeni/plantpal-dataset
 
@@ -37,23 +38,6 @@ The following Python packages are required for running the project:
 
 # Install the dependencies using pip:
 pip install -r requirements.txt
-
-# Directory Structure
-project-directory/
-|-- training_data/
-|-- validation_data/
-|-- saved_model/
-|-- tfjs_cnn_model/
-|-- cnn_model_plantpal.h5
-|-- cnn_model_plantpal.tflite
-|-- plantpal_cnn_model.keras
-|-- history.pkl
-|-- models_cnn.zip
-|-- scripts/
-    |-- train_model.py
-    |-- evaluate_model.py
-    |-- predict_image.py
-|-- README.md
 
 # Usage
 
@@ -124,7 +108,7 @@ The confusion matrix visualization can be generated using the evaluation script.
 </p>
 
 
-Notes
+# Notes
 
 Ensure TensorFlow version 2.15.0 or compatible is installed for successful execution.
 
@@ -132,11 +116,11 @@ GPU acceleration is recommended for training.
 
 Use the provided requirements.txt to ensure compatibility.
 
-License
+# License
 
 This project is open-source and available under the MIT License.
 
-Acknowledgments
+# Acknowledgments
 
 TensorFlow Documentation
 
