@@ -11,7 +11,7 @@ This project demonstrates the implementation, training, and deployment of a Conv
 
 # Visualization of training metrics (accuracy and loss):
 - train acc: 95.59% and val acc: 97.16%
-- train loss: 27.68% and val loss 22.09%
+- train loss: 0.2768 and val loss 0.2209
 
 # Model serialization into multiple formats:
 - Keras (.h5 and .keras)
